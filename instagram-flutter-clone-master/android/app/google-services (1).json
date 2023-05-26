@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "685101029597",
+    "project_id": "instagram-project-cfb04",
+    "storage_bucket": "instagram-project-cfb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685101029597:android:e97ef9587aa6b8cbc62334",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685101029597-jba1mq0kq7911ustdhamcmudnh8qsher.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxgzBofGJ5WqMrmvU15p9lWD4Ttw1F8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685101029597-jba1mq0kq7911ustdhamcmudnh8qsher.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685101029597-6n51fipqcpto7so7c7bfom9o2kk0ishr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685101029597:android:fee478ee113d30b5c62334",
+        "android_client_info": {
+          "package_name": "com.example.instagram_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685101029597-jba1mq0kq7911ustdhamcmudnh8qsher.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxgzBofGJ5WqMrmvU15p9lWD4Ttw1F8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685101029597-jba1mq0kq7911ustdhamcmudnh8qsher.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685101029597-6n51fipqcpto7so7c7bfom9o2kk0ishr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
